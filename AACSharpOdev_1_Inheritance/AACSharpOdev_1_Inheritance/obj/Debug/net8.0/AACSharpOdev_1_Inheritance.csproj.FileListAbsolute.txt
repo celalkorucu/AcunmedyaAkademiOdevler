@@ -1,0 +1,14 @@
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\bin\Debug\net8.0\AACSharpOdev_1_Inheritance.exe
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\bin\Debug\net8.0\AACSharpOdev_1_Inheritance.deps.json
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\bin\Debug\net8.0\AACSharpOdev_1_Inheritance.runtimeconfig.json
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\bin\Debug\net8.0\AACSharpOdev_1_Inheritance.dll
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\bin\Debug\net8.0\AACSharpOdev_1_Inheritance.pdb
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\AACSharpOdev_1_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\AACSharpOdev_1_Inheritance.AssemblyInfoInputs.cache
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\AACSharpOdev_1_Inheritance.AssemblyInfo.cs
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\AACSharpOdev_1_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\AACSharpOdev_1_Inheritance.dll
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\refint\AACSharpOdev_1_Inheritance.dll
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\AACSharpOdev_1_Inheritance.pdb
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\AACSharpOdev_1_Inheritance.genruntimeconfig.cache
+C:\Users\90505\source\repos\AACSharpOdev_1_Inheritance\AACSharpOdev_1_Inheritance\obj\Debug\net8.0\ref\AACSharpOdev_1_Inheritance.dll
